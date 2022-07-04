@@ -26,7 +26,7 @@ MWCP_string_method.py:
 Functions for calculating optimized protocols using the string method.
 
 optimization_1D.py:
-Calculates 2D and 4D time optimized protocols. A reparameterization scheme (cite:) is used to give control parameter values at evenly spaced times that are equally spaced in terms of the 1D generalized friction. 
+Calculates 2D and 4D time optimized protocols. A reparameterization scheme (cite: Maragliano, et al. J. Chem. Phys. (2006) vol. 125, p.024106) is used to give control parameter values at evenly spaced times that are equally spaced in terms of the 1D generalized friction. 
 
 optimization_2D.py:
 Calculates 2D fully optimized protocol using the string method.
