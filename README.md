@@ -20,7 +20,7 @@ spline_4D.py:
 Calculates 4D splines and evaluates interpolated value and derivative at a given 4D control parameter value.
 
 ARBInterp.py:
-Build splines. Citation:
+Build splines. Citation: Paul Walker. arXiv:1904.09869
 
 MWCP_string_method.py:
 Functions for calculating optimized protocols using the string method.
